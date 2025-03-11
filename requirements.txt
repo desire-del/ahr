@@ -1,0 +1,9 @@
+tensorflow
+numpy
+pandas
+matplotlib
+notebook
+pyYAML
+types-pyYAML
+
+-e .
